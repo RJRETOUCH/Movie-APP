@@ -25,3 +25,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Demo of Show TIme APP 
+![Angular Netflix](https://github.com/RJRETOUCH/Movie-APP/assets/113321180/b8683bb6-1b02-4ce5-836a-e18e0dd9d255)
